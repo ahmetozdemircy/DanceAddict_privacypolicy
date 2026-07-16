@@ -21,7 +21,9 @@ Last updated: **July 16, 2026**
 | Safety Data | List of users you have blocked | Hiding blocked users' events from you |
 | Subscription | Organizer Pro subscription status and purchase history | Unlocking Pro features |
 | Technical | Device push token | Reservation and event notifications |
-| Technical | IP address, device name, app usage logs | App stability and Firebase sync |
+| Technical | IP address and connection data (recorded by Firebase) | Operating the service and syncing your data |
+
+Dance Addict contains no analytics or crash-reporting SDK — we do not record which screens you view or what you tap.
 
 ### Location — used on your device only
 

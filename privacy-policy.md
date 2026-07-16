@@ -47,8 +47,9 @@ If you subscribe to Organizer Pro, your purchase is processed by Apple. **We nev
 
 ### Technical Data (collected automatically)
 - Device push notification token (for reservation and event notifications)
-- App usage logs (via Firebase)
-- IP address and session data (via Firebase)
+- IP address and connection data, recorded by Firebase when your device communicates with our backend
+
+Dance Addict contains no analytics or crash-reporting SDK. We do not record which screens you view or what you tap.
 
 ### Location
 Dance Addict can detect your city so it can show you nearby events. This is optional — you can always pick your city manually from a list instead.
