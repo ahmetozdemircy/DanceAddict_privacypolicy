@@ -1,7 +1,7 @@
 # Terms of Use and EULA
 
 **Dance Addict — End-User License Agreement**
-Last updated: January 01, 2025
+Last updated: July 16, 2026
 
 ---
 
@@ -28,14 +28,36 @@ Ahmet Ozdemir grants you a revocable, non-exclusive, non-transferable, limited l
 
 ---
 
-## User Content
+## User Content and Community Rules
 
 When you post events, classes, or any content on Dance Addict:
 
 - You retain ownership of your content
 - You grant Dance Addict a license to display and distribute your content within the app
-- You agree not to post false, misleading, or harmful content
-- Dance Addict reserves the right to remove content that violates these terms
+- You are responsible for the content you post
+
+### Zero tolerance for objectionable content and abusive behaviour
+
+**There is no tolerance for objectionable content or abusive users on Dance Addict.** By using the app you agree that you will not post, upload, or share content that is:
+
+- Hateful, discriminatory, or harassing toward any person or group
+- Sexually explicit, obscene, or otherwise inappropriate
+- Violent, threatening, or encouraging dangerous behaviour
+- False, misleading, fraudulent, or a scam (including fake events)
+- Spam, or content that infringes someone else's rights
+- Unlawful in any other way
+
+You also agree not to harass, bully, impersonate, or abuse other users.
+
+### How we enforce this
+
+- **We review before publishing.** Events and classes submitted by organizers are reviewed by our moderators before they appear in the app.
+- **You can report anything.** Every event and every organizer profile has a **Report** action. Reports go straight to our moderators.
+- **You can block anyone.** Blocking an organizer immediately hides all of their events from your app. You can manage this from **Profile → Blocked users**.
+- **We act within 24 hours.** We review every report within 24 hours and remove content that violates these terms.
+- **We remove offenders.** Users who post objectionable content or abuse others have their content removed and their accounts suspended or terminated, without refund.
+
+You can also report content or a user directly by emailing **ahmetozdemircy@gmail.com**.
 
 ---
 
@@ -58,6 +80,17 @@ If you use Dance Addict as an organizer or instructor:
 
 ---
 
+## Organizer Pro Subscription
+
+- Organizer Pro is an auto-renewing subscription offered as a monthly or yearly plan
+- Payment is charged to your Apple ID account at confirmation of purchase
+- Your subscription renews automatically unless you cancel it at least 24 hours before the end of the current period
+- You can manage or cancel your subscription at any time in your Apple ID account settings
+- Any unused portion of a free trial is forfeited when you purchase a subscription
+- Purchases are handled by Apple. Refunds are governed by Apple's policies, not by us
+
+---
+
 ## Internet Connection
 
 Dance Addict requires an active internet connection for real-time features including reservations, notifications, and event updates. We cannot be responsible for limited functionality without internet access.
@@ -72,7 +105,9 @@ Ahmet Ozdemir reserves the right to make changes to the app or its services at a
 
 ## Termination
 
-We may terminate or suspend your account at any time for violations of these terms. Upon termination, your right to use the app ceases immediately.
+We may terminate or suspend your account at any time for violations of these terms, including any breach of the community rules above. Upon termination, your right to use the app ceases immediately.
+
+You can delete your own account at any time from **Profile → Profile settings → Delete Account**.
 
 ---
 
@@ -104,4 +139,4 @@ We may update these Terms from time to time. We will notify you of significant c
 
 If you have any questions about these Terms of Use:
 
-**Email:** privacy@danceaddict.app
+**Email:** ahmetozdemircy@gmail.com

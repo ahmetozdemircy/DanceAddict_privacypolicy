@@ -1,4 +1,4 @@
-# Privacy Policy and Terms of Use (EULA)
+# Privacy Policy
 
 Ahmet Ozdemir built the **Dance Addict** app. This SERVICE is provided by Ahmet Ozdemir and is intended for use as is.
 
@@ -6,13 +6,18 @@ This page informs visitors regarding our policies with the collection, use, and 
 
 If you choose to use our Service, you agree to the collection and use of information in relation to this policy. The Personal Information we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-This policy is effective as of **2025-01-01**
+The terms that govern your use of the app are in our [Terms of Use](terms-of-use.html).
+
+This policy is effective as of **2026-07-16**
+Last updated: **July 16, 2026**
 
 ---
 
 ## What is Dance Addict?
 
 Dance Addict is a dance events and classes platform connecting dancers, instructors, and organizers. It allows users to discover and reserve spots at dance events and classes, enables organizers to manage their events, and helps instructors promote their classes. All data is stored securely in the cloud using Firebase.
+
+You can browse events as a guest without creating an account. You only need an account to reserve a spot, publish events, or apply to become an organizer.
 
 ---
 
@@ -23,23 +28,40 @@ To provide our Service, we collect the following information:
 ### Account Information
 - **Email address** — used for authentication via Firebase
 - **Display name** — your name shown in the app
-- **Phone number** (optional) — for instructor contact purposes
+- **Phone / WhatsApp number** (optional) — so dancers can contact organizers and instructors
+- **Sign in with Apple identifier** — if you sign in with Apple, Apple gives us a unique identifier for you and your email address. If you choose Apple's "Hide My Email" option, we only ever see Apple's private relay address.
 
 ### Event & Reservation Data (entered by you)
 - Event and class details (title, description, location, schedule)
 - Reservation requests and guest counts
 - Notes related to reservations
+- Your profile bio and dance style preferences
+- Event and class poster images you choose to upload
+
+### Safety Data
+- **Reports you submit** about an event or an organizer — the reason, your optional description, and what you reported. Reports are visible only to our moderators and are never shown to the person you reported.
+- **Users you block** — this list is visible only to you and is used to hide their events from your app.
+
+### Subscription Data (Organizer Pro)
+If you subscribe to Organizer Pro, your purchase is processed by Apple. **We never see your card or bank details.** Our subscription provider, RevenueCat, receives your subscription status and purchase history linked to your account identifier, so that the app knows to unlock Pro features for you.
 
 ### Technical Data (collected automatically)
 - Device push notification token (for reservation and event notifications)
 - App usage logs (via Firebase)
 - IP address and session data (via Firebase)
 
-**We do not collect:**
-- Photos (except event/class posters you voluntarily upload)
-- Precise location data
+### Location
+Dance Addict can detect your city so it can show you nearby events. This is optional — you can always pick your city manually from a list instead.
+
+If you allow location access, your approximate location (accurate to roughly one kilometre, not your exact position) is used **on your device** to work out which city you are in. That city preference is then stored **only on your device**. We do not send your coordinates to our servers, we do not store a history of where you have been, and your location is never shared with other users.
+
+### We do not collect
+- Your location coordinates on our servers, or any location history
 - Contacts from your device
-- Any advertising identifiers (IDFA)
+- Advertising identifiers (IDFA) — we do not track you across other apps or websites
+- Payment card or bank details
+- Biometric data
+- Photos, other than the event and class posters you voluntarily upload
 
 ---
 
@@ -53,6 +75,8 @@ The app uses the following third-party services that may collect information:
 | Firebase Firestore | Cloud data storage and sync | [Firebase Privacy](https://firebase.google.com/support/privacy) |
 | Firebase Cloud Messaging | Push notifications | [Firebase Privacy](https://firebase.google.com/support/privacy) |
 | Firebase Storage | Event and class poster images | [Firebase Privacy](https://firebase.google.com/support/privacy) |
+| RevenueCat | Organizer Pro subscription status | [RevenueCat Privacy](https://www.revenuecat.com/privacy/) |
+| Apple | Sign in with Apple, and App Store subscription purchases | [Apple Privacy](https://www.apple.com/legal/privacy/) |
 
 ---
 
@@ -64,8 +88,12 @@ We use the information we collect to:
 - **(b)** Sync your data across your devices via Firebase
 - **(c)** Send push notifications for reservation updates, event approvals, and new requests
 - **(d)** Enable organizers and instructors to manage their events and classes
-- **(e)** Respond to your support requests
-- **(f)** Improve app performance and fix bugs
+- **(e)** Keep the community safe — we review reported content and remove content or accounts that break our rules
+- **(f)** Unlock Organizer Pro features for subscribers
+- **(g)** Respond to your support requests
+- **(h)** Improve app performance and fix bugs
+
+We do not sell your data to third parties, and we do not use it for advertising.
 
 ---
 
@@ -77,7 +105,9 @@ Your data is stored in the cloud via Google Firebase Firestore, secured by Fireb
 
 ## Data Retention
 
-We retain your data for as long as your account is active. You can delete all your data at any time from **Profile → Delete Account** within the app. Deletion removes all personal data within 30 days.
+We retain your data for as long as your account is active. You can delete your account and all of your data at any time from **Profile → Profile settings → Delete Account** within the app. Deletion removes all personal data within 30 days.
+
+If you signed in with Apple, deleting your account also revokes the app's Sign in with Apple token, so your Apple ID is no longer connected to Dance Addict.
 
 ---
 
@@ -87,70 +117,22 @@ Dance Addict does not address anyone under the age of 13. We do not knowingly co
 
 ---
 
+## Your Rights
+
+You can access, correct, export, or delete your personal data. See [Data Protection](data-protection.html) for details on how to exercise these rights.
+
+---
+
 ## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this page periodically.
 
 ---
 
-## Terms & Conditions
-
-By downloading or using Dance Addict, these terms automatically apply to you.
-
-- You are not allowed to copy, modify, or distribute the app or any part of it
-- You are not allowed to attempt to extract the source code of the app
-- All trademarks, copyright, and intellectual property rights related to Dance Addict belong to Ahmet Ozdemir
-
-Ahmet Ozdemir reserves the right to make changes to the app or its services at any time. We will always be transparent about any charges.
-
-Dance Addict requires an active internet connection for cloud sync and real-time features. We cannot be responsible for the app not working at full functionality without internet access.
-
-### Changes to Terms and Conditions
-
-We may update our Terms and Conditions from time to time. Continued use of the app after changes constitutes acceptance of the new terms.
-
----
-
-## EULA for Dance Addict
-
-**End-User License Agreement ("Agreement")**
-Last updated: January 01, 2025
-
-### Definitions
-
-- **Application** — the Dance Addict software application
-- **Company** — Ahmet Ozdemir
-- **Device** — any device used to access the Application
-- **Country** — Cyprus
-
-### License
-
-The Company grants You a revocable, non-exclusive, non-transferable, limited license to download, install and use the Application for your personal, non-commercial purposes in accordance with this Agreement.
-
-### Third-Party Services
-
-The Application uses Firebase services. You must comply with their applicable Terms when using the Application.
-
-### Termination
-
-This Agreement remains in effect until terminated. The Company may terminate this Agreement at any time. Upon termination, you must stop using the app and delete it from your device.
-
-### No Warranties
-
-The Application is provided "AS IS" without warranty of any kind.
-
-### Limitation of Liability
-
-The Company's total liability shall be limited to the amount actually paid by You for the Application, or 100 USD if nothing was paid.
-
-### Governing Law
-
-The laws of Cyprus shall govern this Agreement.
-
----
-
 ## Contact Us
 
-If you have any questions about this Privacy Policy or Terms of Use:
+If you have any questions about this Privacy Policy, or you want to report content or a user:
 
-**Email:** privacy@danceaddict.app
+**Email:** ahmetozdemircy@gmail.com
+
+We respond to reports of objectionable content within 24 hours.
