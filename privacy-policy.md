@@ -9,7 +9,7 @@ If you choose to use our Service, you agree to the collection and use of informa
 The terms that govern your use of the app are in our [Terms of Use](terms-of-use.html).
 
 This policy is effective as of **2026-07-16**
-Last updated: **July 16, 2026**
+Last updated: **October 20, 2026**
 
 ---
 
@@ -49,7 +49,10 @@ If you subscribe to Organizer Pro, your purchase is processed by Apple. **We nev
 - Device push notification token (for reservation and event notifications)
 - IP address and connection data, recorded by Firebase when your device communicates with our backend
 
-Dance Addict contains no analytics or crash-reporting SDK. We do not record which screens you view or what you tap.
+- **Crash reports** — if the app crashes, Firebase Crashlytics records technical details about the crash (device model, operating system and app version, and what the app was doing at the time), linked to your account identifier, so we can find and fix the bug.
+- **App usage statistics** — Google Analytics for Firebase records how the app is used: app opens and screens viewed, sign-ins, which events you open, reservation requests and events you create, together with a per-install app instance ID and your account identifier. These records contain only IDs and categories, never your name, email address or notes.
+
+We use crash reports and usage statistics only to understand and improve Dance Addict. They are not used for advertising, not combined with advertising identifiers, and not used to track you across other apps or websites.
 
 ### Location
 Dance Addict can detect your city so it can show you nearby events. This is optional — you can always pick your city manually from a list instead.
@@ -76,6 +79,8 @@ The app uses the following third-party services that may collect information:
 | Firebase Firestore | Cloud data storage and sync | [Firebase Privacy](https://firebase.google.com/support/privacy) |
 | Firebase Cloud Messaging | Push notifications | [Firebase Privacy](https://firebase.google.com/support/privacy) |
 | Firebase Storage | Event and class poster images | [Firebase Privacy](https://firebase.google.com/support/privacy) |
+| Firebase Crashlytics | Crash reports | [Firebase Privacy](https://firebase.google.com/support/privacy) |
+| Google Analytics for Firebase | App usage statistics | [Firebase Privacy](https://firebase.google.com/support/privacy) |
 | RevenueCat | Organizer Pro subscription status | [RevenueCat Privacy](https://www.revenuecat.com/privacy/) |
 | Apple | Sign in with Apple, and App Store subscription purchases | [Apple Privacy](https://www.apple.com/legal/privacy/) |
 
@@ -92,7 +97,7 @@ We use the information we collect to:
 - **(e)** Keep the community safe — we review reported content and remove content or accounts that break our rules
 - **(f)** Unlock Organizer Pro features for subscribers
 - **(g)** Respond to your support requests
-- **(h)** Improve app performance and fix bugs
+- **(h)** Improve app performance and fix bugs, using crash reports and usage statistics
 
 We do not sell your data to third parties, and we do not use it for advertising.
 

@@ -22,8 +22,10 @@ Last updated: **July 16, 2026**
 | Subscription | Organizer Pro subscription status and purchase history | Unlocking Pro features |
 | Technical | Device push token | Reservation and event notifications |
 | Technical | IP address and connection data (recorded by Firebase) | Operating the service and syncing your data |
+| Technical | Crash reports (Firebase Crashlytics), linked to your account identifier | Finding and fixing bugs |
+| Usage | App usage statistics (Google Analytics for Firebase): screens, sign-ins, events opened, reservation requests and events created, with an app instance ID and your account identifier | Understanding and improving the app |
 
-Dance Addict contains no analytics or crash-reporting SDK — we do not record which screens you view or what you tap.
+Crash reports and usage statistics contain only IDs and categories, never your name, email address or notes. They are not used for advertising or to track you across other apps or websites.
 
 ### Location — used on your device only
 
