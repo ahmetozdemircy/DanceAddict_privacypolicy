@@ -29,7 +29,7 @@ Crash reports and usage statistics contain only IDs and categories, never your n
 
 ### Location — used on your device only
 
-If you allow location access, your approximate location (roughly one kilometre accuracy) is used **on your device** to detect your city, and only that city preference is saved on your device. Coordinates are never transmitted to or stored on our servers, and no location history is kept. Choosing your city manually from the list avoids location access entirely.
+If you allow location access, your approximate location (roughly one kilometre accuracy) is used **on your device** to detect your city, and only that city preference is saved on your device. Coordinates are never transmitted to or stored on our servers, and no location history is kept. Choosing your city manually from the list avoids location access entirely. Separately, Google Analytics for Firebase estimates an approximate, city-level location from your IP address for usage statistics; it never receives GPS coordinates.
 
 ### We do NOT collect
 - Location coordinates or location history on our servers

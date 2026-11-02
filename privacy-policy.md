@@ -9,7 +9,7 @@ If you choose to use our Service, you agree to the collection and use of informa
 The terms that govern your use of the app are in our [Terms of Use](terms-of-use.html).
 
 This policy is effective as of **2026-07-16**
-Last updated: **October 20, 2026**
+Last updated: **November 3, 2026**
 
 ---
 
@@ -58,6 +58,8 @@ We use crash reports and usage statistics only to understand and improve Dance A
 Dance Addict can detect your city so it can show you nearby events. This is optional — you can always pick your city manually from a list instead.
 
 If you allow location access, your approximate location (accurate to roughly one kilometre, not your exact position) is used **on your device** to work out which city you are in. That city preference is then stored **only on your device**. We do not send your coordinates to our servers, we do not store a history of where you have been, and your location is never shared with other users.
+
+Separately, Google Analytics for Firebase estimates an approximate, city-level location from your device's IP address for aggregated usage statistics. It never receives your GPS coordinates.
 
 ### We do not collect
 - Your location coordinates on our servers, or any location history
