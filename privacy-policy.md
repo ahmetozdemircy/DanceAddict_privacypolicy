@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Ahmet Ozdemir built the **Dance Addict** app. This SERVICE is provided by Ahmet Ozdemir and is intended for use as is.
+Ahmet Ozdemir built the **Dance Addict** app, available on iPhone (App Store) and Android (Google Play). This SERVICE is provided by Ahmet Ozdemir and is intended for use as is.
 
 This page informs visitors regarding our policies with the collection, use, and disclosure of Personal Information for anyone who uses our Service.
 
@@ -9,7 +9,7 @@ If you choose to use our Service, you agree to the collection and use of informa
 The terms that govern your use of the app are in our [Terms of Use](terms-of-use.html).
 
 This policy is effective as of **2026-07-16**
-Last updated: **November 3, 2026**
+Last updated: **November 9, 2026**
 
 ---
 
@@ -30,6 +30,7 @@ To provide our Service, we collect the following information:
 - **Display name** — your name shown in the app
 - **Phone / WhatsApp number** (optional) — so dancers can contact organizers and instructors
 - **Sign in with Apple identifier** — if you sign in with Apple, Apple gives us a unique identifier for you and your email address. If you choose Apple's "Hide My Email" option, we only ever see Apple's private relay address.
+- **Sign in with Google identifier** — if you sign in with Google, Google gives us a unique identifier for you, your name and your email address.
 
 ### Event & Reservation Data (entered by you)
 - Event and class details (title, description, location, schedule)
@@ -43,7 +44,7 @@ To provide our Service, we collect the following information:
 - **Users you block** — this list is visible only to you and is used to hide their events from your app.
 
 ### Subscription Data (Organizer Pro)
-If you subscribe to Organizer Pro, your purchase is processed by Apple. **We never see your card or bank details.** Our subscription provider, RevenueCat, receives your subscription status and purchase history linked to your account identifier, so that the app knows to unlock Pro features for you.
+If you subscribe to Organizer Pro, your purchase is processed by Apple (App Store, on iPhone) or Google (Google Play, on Android). **We never see your card or bank details.** Our subscription provider, RevenueCat, receives your subscription status and purchase history linked to your account identifier, so that the app knows to unlock Pro features for you.
 
 ### Technical Data (collected automatically)
 - Device push notification token (for reservation and event notifications)
@@ -84,7 +85,8 @@ The app uses the following third-party services that may collect information:
 | Firebase Crashlytics | Crash reports | [Firebase Privacy](https://firebase.google.com/support/privacy) |
 | Google Analytics for Firebase | App usage statistics | [Firebase Privacy](https://firebase.google.com/support/privacy) |
 | RevenueCat | Organizer Pro subscription status | [RevenueCat Privacy](https://www.revenuecat.com/privacy/) |
-| Apple | Sign in with Apple, and App Store subscription purchases | [Apple Privacy](https://www.apple.com/legal/privacy/) |
+| Apple | Sign in with Apple, and App Store subscription purchases (iPhone) | [Apple Privacy](https://www.apple.com/legal/privacy/) |
+| Google | Sign in with Google, and Google Play subscription purchases (Android) | [Google Privacy](https://policies.google.com/privacy) |
 
 ---
 

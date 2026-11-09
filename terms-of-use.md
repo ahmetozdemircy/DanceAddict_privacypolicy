@@ -1,7 +1,7 @@
 # Terms of Use and EULA
 
 **Dance Addict — End-User License Agreement**
-Last updated: July 16, 2026
+Last updated: November 9, 2026
 
 ---
 
@@ -83,11 +83,11 @@ If you use Dance Addict as an organizer or instructor:
 ## Organizer Pro Subscription
 
 - Organizer Pro is an auto-renewing subscription offered as a monthly or yearly plan
-- Payment is charged to your Apple ID account at confirmation of purchase
+- Payment is charged to your Apple ID account (iPhone) or Google Play account (Android) at confirmation of purchase
 - Your subscription renews automatically unless you cancel it at least 24 hours before the end of the current period
-- You can manage or cancel your subscription at any time in your Apple ID account settings
+- You can manage or cancel your subscription at any time in your Apple ID account settings (iPhone) or in Google Play → Payments & subscriptions → Subscriptions (Android)
 - Any unused portion of a free trial is forfeited when you purchase a subscription
-- Purchases are handled by Apple. Refunds are governed by Apple's policies, not by us
+- Purchases are handled by Apple or Google. Refunds are governed by their policies, not by us
 
 ---
 

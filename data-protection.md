@@ -2,7 +2,7 @@
 
 Dance Addict processes your personal data solely for the purposes described in this document, in compliance with applicable data protection laws.
 
-Last updated: **July 16, 2026**
+Last updated: **November 9, 2026**
 
 ---
 
@@ -12,6 +12,7 @@ Last updated: **July 16, 2026**
 |---|---|---|
 | Identity | Name and display name | Account creation and profile display |
 | Identity | Sign in with Apple identifier | Authentication, if you sign in with Apple |
+| Identity | Sign in with Google identifier | Authentication, if you sign in with Google |
 | Contact | E-mail address | User authentication and notifications |
 | Contact | Phone / WhatsApp number (optional) | So dancers can contact organizers and instructors |
 | Profile | Bio and dance style preferences (optional) | Profile display |
@@ -35,9 +36,9 @@ If you allow location access, your approximate location (roughly one kilometre a
 - Location coordinates or location history on our servers
 - Photos or any visual/facial data (except posters you voluntarily upload)
 - Device contacts
-- Advertising identifiers (IDFA)
+- Advertising identifiers (IDFA on iPhone, Advertising ID on Android)
 - Any biometric data
-- Payment card or bank details — purchases are processed entirely by Apple
+- Payment card or bank details — purchases are processed entirely by Apple or Google
 
 ---
 
@@ -57,7 +58,8 @@ We share your data only with:
 
 - **Firebase (Google)** — for authentication, database, storage, and push notifications
 - **RevenueCat** — for Organizer Pro subscription status, linked to your account identifier
-- **Apple** — for Sign in with Apple and for processing subscription purchases
+- **Apple** — for Sign in with Apple and for processing subscription purchases on iPhone
+- **Google** — for Sign in with Google and for processing subscription purchases through Google Play on Android
 - **Other users** — your name and event/class details are visible to other app users as part of the service
 
 Reports you submit are shared only with our moderators. They are never shown to the person you reported. The list of users you block is visible only to you.
